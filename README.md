@@ -1,3 +1,5 @@
+<h1> CPU Scheduler </h1>
+
 Learn about various types of CPU Scheduling Algorithms using this tool. The algorithms which can be performed using the Simulator are FCFS(First Come First Served), SJF(Shortest Job First), SRTF (Shortest Remaining Time First), RR (Round Robin) and Priority Scheduling. 
 
 To the run this project:
